@@ -16,7 +16,7 @@ A Netflix-inspired landing page built using HTML5 and CSS3. This project recreat
 ---
 # 🔗 Live Demo
 
-- 👉 https://helloclone.netlify.app/
+- 👉 https://netlyfix.netlify.app/
 ---
 
 # 🛠️ Tech Stack
