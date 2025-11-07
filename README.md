@@ -14,10 +14,6 @@ A Netflix-inspired landing page built using HTML5 and CSS3. This project recreat
 - ✅ Custom Fonts from Google Fonts
 
 ---
-# 🔗 Live Demo
-
-- 👉 https://netlyfix.netlify.app/
----
 
 # 🛠️ Tech Stack
 
